@@ -17,11 +17,18 @@ where RANKING should be one of `['probeless', 'linear']`, and BETA is a hyperpar
 If you find this repository useful in your work, please cite our paper:
 
 ```
-@article{antverg2022idani,
-  title={IDANI: Inference-time Domain Adaptation via Neuron-level Interventions},
-  author={Antverg, Omer and Ben-David, Eyal and Belinkov, Yonatan},
-  journal={arXiv preprint arXiv:2206.00259},
-  year={2022}
+@inproceedings{antverg-ben-david-and-yonatan-belinkov-2022-idani,
+    title = "{IDANI}: Inference-time Domain Adaptation via Neuron-level Interventions",
+    author = "Antverg, Omer  and
+      Ben-David and Yonatan Belinkov, Eyal",
+    booktitle = "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing",
+    month = jul,
+    year = "2022",
+    address = "Hybrid",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.deeplo-1.3",
+    pages = "21--29",
+    abstract = "t",
 }
 
 ```
